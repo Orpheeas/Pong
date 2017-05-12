@@ -1,0 +1,1 @@
+La fonction WriteScore ne marche pas, je n'ai pas eu le temps de la coder, elle n'es pas activé car elle créait des bugs
